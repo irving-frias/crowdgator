@@ -1,0 +1,23 @@
+{
+  "name": "crowdgator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irving-frias/crowdgator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irving-frias/crowdgator/issues"
+  },
+  "homepage": "https://github.com/irving-frias/crowdgator#readme",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}
